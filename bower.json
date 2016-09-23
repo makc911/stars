@@ -1,0 +1,15 @@
+{
+  "name": "starsApp",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-resource": "^1.5.3",
+    "angular-cookies": "^1.5.3",
+    "angular-route": "^1.5.3",
+    "normalize.css": "^3.0.2",
+    "underscore": "^1.8.3"
+  },
+  "resolutions": {
+    "angular": ">=1.5.3"
+  }
+}
